@@ -1,0 +1,15 @@
+project: smart home automation with full authentication 
+program support up to 5 users.
+admin is allowed to add new users or reset data at eeprom.
+once data is reset user asked to sign up to mange home.
+user has full control on home with four room, air conditionar, TV, door
+MCU: avr/atmega32
+drivers included :-
+1) adc
+2) internal eeprom
+3) dio 
+4) phone keypad
+5) stepper motor
+sensors :-
+1)LDR
+2)LM35 heat sensor
